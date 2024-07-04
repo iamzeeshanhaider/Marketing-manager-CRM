@@ -1,0 +1,34 @@
+// Fonts
+@import url('https://fonts.bunny.net/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import 'bootstrap/scss/bootstrap';
+
+.select-2-input {
+    height: calc(2.25rem + 2px) !important;
+}
+
+.chat-container {
+    height: 75vh;
+    position: relative;
+
+    .conversation-history {
+        height: 90%;
+        overflow-x: hidden;
+        overflow-y: auto;
+    }
+
+    .chat-history {
+        padding-bottom: 70%;
+    }
+
+    .chat-form {
+        position: absolute;
+        bottom: -28px;
+        left: 0;
+        right: 0;
+    }
+}

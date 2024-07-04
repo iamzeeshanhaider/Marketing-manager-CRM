@@ -1,0 +1,144 @@
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Bold.woff2') format('woff2'),
+        url('BwModelicaSS01-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Black.woff2') format('woff2'),
+        url('BwModelicaSS01-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-ExtraBold.woff2') format('woff2'),
+        url('BwModelicaSS01-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Medium.woff2') format('woff2'),
+        url('BwModelicaSS01-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01 Hairline';
+    src: url('BwModelicaSS01-HairlineItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-HairlineItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-LightItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-BlackItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Light.woff2') format('woff2'),
+        url('BwModelicaSS01-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-BoldItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-ExtraBoldItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-ExtraBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01 Hairline';
+    src: url('BwModelicaSS01-Hairline.woff2') format('woff2'),
+        url('BwModelicaSS01-Hairline.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-ThinItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-RegularItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-RegularItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Thin.woff2') format('woff2'),
+        url('BwModelicaSS01-Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-Regular.woff2') format('woff2'),
+        url('BwModelicaSS01-Regular.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bw Modelica SS01';
+    src: url('BwModelicaSS01-MediumItalic.woff2') format('woff2'),
+        url('BwModelicaSS01-MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+

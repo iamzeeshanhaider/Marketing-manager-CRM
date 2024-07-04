@@ -1,0 +1,1 @@
+{!! $details['email_body'] !!}
